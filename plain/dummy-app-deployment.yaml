@@ -1,7 +1,7 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: nodejs-dummy-deployment-julian
+  name: nodejs-dummy-deployment-julianf
 spec:
   replicas: 3
   selector:
